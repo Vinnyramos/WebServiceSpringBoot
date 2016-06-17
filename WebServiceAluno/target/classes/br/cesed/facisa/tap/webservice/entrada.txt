@@ -1,0 +1,6 @@
+  {
+    "id":"1",
+    "name":"vinicio",
+    "curso":"sistemas de informação" 
+  }
+         
